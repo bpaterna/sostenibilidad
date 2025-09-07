@@ -2,4 +2,4 @@
 
 Este es el sitio de **Sostenibilidad**.
 
-Aquí encontrarás las unidades, recursos y ejercicios.
+Aquí encontrarás las unidades, recursos y ejercicios del módulo
