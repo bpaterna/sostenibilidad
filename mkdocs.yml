@@ -1,0 +1,7 @@
+site_name: Materiales de Sostenibilidad
+nav:
+  - Inicio: index.md
+  - Unidad 1: unidad1.md
+  - Unidad 2: unidad2.md
+theme:
+  name: material
